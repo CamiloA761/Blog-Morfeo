@@ -1,5 +1,7 @@
 # Blog  Privado Morfeo.
 
+CENSA
+
 Autor: Camilo Arbelaez Villamil
 
 Este Blog Privado hablara de todos los sectores de la tecnologia, para darse a conocer tendra un acceso como invitado que no necesitara de un registro y todo miembro o suscriptor tendra un descuento significativo con nuestros aliados en todos los productos que se presenten en el blog, a traves de los miembros se monetizara la pagina con una mensualidad, no a traves de anuncios, ni publicidad. 
